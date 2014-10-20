@@ -19,3 +19,23 @@
 	<list>
 	<fstream>
 
+1413758199 source:/home/jalil/Proyectos/OrgaTarea2/Cumpleanios.cpp
+	"Cumpleanios.h"
+
+1413668360 /home/jalil/Proyectos/OrgaTarea2/Cumpleanios.h
+	<iostream>
+
+1413668360 source:/home/jalil/Proyectos/OrgaTarea2/Evaluador.cpp
+	"Evaluador.h"
+
+1413668360 /home/jalil/Proyectos/OrgaTarea2/Evaluador.h
+	"Cumpleanios.h"
+	<iostream>
+	<list>
+
+1413759958 source:/home/jalil/Proyectos/OrgaTarea2/main.cpp
+	"Evaluador.h"
+	<iostream>
+	<list>
+	<fstream>
+
